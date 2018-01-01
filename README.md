@@ -1,16 +1,26 @@
 ## Simon Bao
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+- Computer/Tech/Audio Enthusiast
+- Rasbperry Pi
+- Cryptocurrenies/investment
+- World Touring
+- Gaming
+- Music
 
 ## Skills
 
-#### This Skill
+#### Adaptable
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
+Working at multiple unfamilar locations.
+Working with people from various backgrounds.
+
 - Achievements
 - Evidence
+Began at a young age, managing store bills/payments, being a trasnlator. 
 
 #### Another Skill
 
