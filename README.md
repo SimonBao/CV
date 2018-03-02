@@ -1,10 +1,18 @@
-## Your Name
+<h1 align="center"> Simon Bao  </h1>
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+ <p align="center">  <a href='#projects'>Projects</a> |   <a href='#skills'>Skills</a>  |  <a href='#education'>Education</a> | <a href='#experience'>Experience</a> |  <a href='#interests'>Interests</a> |  <a href='https://twitter.com/SimonBao_Sy/'>Twitter</a> </p>
+## Simon Bao 
 
-## Skills
+I'm a family business manager and a computer software engineering graduate.
+Whose currently undertaking an intensive software craftsmanship course at Makers Academy.
+Through doing the course, I've obtained several good habits.
+I'm currently looking for things or places which or where I can obtain more skills to become a better developer.
 
-#### This Skill
+## Projects  <a name= "projects"></a>
+
+## Skills <a name= "skills"></a>
+
+#### This Skill 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -21,30 +29,54 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## Education <a name= "education"></a>
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (2017 to 2018)
+12 week intensive development bootcamp, which emphasizes on:
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Agile methodologies
+- Pair-programming
+- Test/Behavioural Driven Development
+- Software Craftsmanship
+    - SOLID Principles
+    - DRY Principles
+    - Documentation
+- Ruby 
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Middlesex University (2013 to 2016)
 
-#### Your University / College (start_date to end_date)
+- Bachelors Of Engineering 2:1 (Computer Systems Engineering)
+- Collaborative working
+    - Task Delegation
+    - Communication
+- Project Management
+- Flexible learner
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+##### Projects developed:
+- Vehicular Ad Hoc Networks (Networking, Linux, R&D, IOT)
+    - http://www.vanet.mdx.ac.uk/
+- Asterisk VoIP Raspberry Pi (Networking, Linux)
+- Raspberry Pi Cluster (Networking, Linux)
+- ATM Simulation (Bash Script)
+- Online Multiplayer GUI TicTacToe Game (Networking, Java, DNS, MySQL, HTML, CSS, JavaScript)
 
-#### Any other qualifications
+#### CCNA 1/2 (2013 to 2015)
+- Troubleshooting
+- DCHP
+- Dynamic routing 
+- Access Control Lists
+- Network Architecture
+- IP structure
+- Routing concepts
+- LAN construction
+- Network configuration
 
-## Experience
+## Experience <a name= "experience"></a>
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Linla** (2016 to 2017)    
+*Assistant Manager*  
+
+**Jasmine** (2012 to 2016)   
+*Assistant Manager*  
+
+## Interests <a name= "interests"></a>
