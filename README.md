@@ -1,7 +1,6 @@
 <h1 align="center"> Simon Bao  </h1>
 
  <p align="center">  <a href='#projects'>Projects</a> |   <a href='#skills'>Skills</a>  |  <a href='#education'>Education</a> | <a href='#experience'>Experience</a> |  <a href='#interests'>Interests</a> |  <a href='https://twitter.com/SimonBao_Sy/'>Twitter</a> </p>
-## Simon Bao 
 
 I'm a family business manager and a computer software engineering graduate.
 Whose currently undertaking an intensive software craftsmanship course at Makers Academy.
