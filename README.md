@@ -8,9 +8,12 @@ Through doing the course, I've obtained several good habits.
 I'm currently looking for things or places which or where I can obtain more skills to become a better developer.
 
 ## Projects  <a name= "projects"></a>
-| Project | Description | Week |
-| --- | --- | --- |
-| Boris Bikes | First Project | Week 1 |
+| Project | Description | Technology | Testing Framework | Week | Grouping |
+| --- | --- | --- | --- | --- | --- |
+| Boris Bikes | First project | Ruby | Rspec | 1 | Pairing |
+| AirBnB | First group project | Ruby, Sinatra, Postgresql, HTML | Rspec, Capybara | 5 | Group |
+
+
 
 ## Skills <a name= "skills"></a>
 
