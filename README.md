@@ -8,6 +8,9 @@ Through doing the course, I've obtained several good habits.
 I'm currently looking for things or places which or where I can obtain more skills to become a better developer.
 
 ## Projects  <a name= "projects"></a>
+| Project | Description | Week |
+| --- | --- | --- |
+| Boris Bikes | First Project | Week 1 |
 
 ## Skills <a name= "skills"></a>
 
