@@ -23,8 +23,10 @@ I'm currently looking for things or places which or where I can obtain more skil
 #### Collabrative
 I can start on projects with people whom, I've never worked with comfortably either in pairs or groups. Through my time at makers, I was able to develop this skill further as I changed partners/groups regularly.  
 #### Flexible leaner
-
- I am a flexible learner, who can learn new programming languages/frameworks in various situations, either solo, pairing or groups. During the course, when I was required to create a product in an unknown language, I was able to tailor my learning process for the product.
+I am a flexible learner, who can learn new programming languages/frameworks in various situations, either solo, pairing or groups. During the course, when I was required to create a product in an unknown language, I was able to tailor my learning process for the product.
+ 
+ #### Adaptable
+ I am adaptable and can change working styles depending on project requirements. Throughout the course, I was able to demonstrate this by quickly changing what I was doing and start working on more pressing demands.  
 
 ## Education <a name= "education"></a>
 
