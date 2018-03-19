@@ -49,7 +49,7 @@ I am a flexible learner, who can learn new programming languages/frameworks in v
     - Task Delegation
     - Communication
 - Project Management
-- Flexible learner
+- CCNA 1/2 Certificate
 
 ##### Projects developed:
 - Vehicular Ad Hoc Networks (Networking, Linux, R&D, IOT)
@@ -59,12 +59,7 @@ I am a flexible learner, who can learn new programming languages/frameworks in v
 - ATM Simulation (Bash Script)
 - Online Multiplayer GUI TicTacToe Game (Networking, Java, DNS, MySQL, HTML, CSS, JavaScript)
 
-#### CCNA 1/2 (2013 to 2015)
-- Troubleshooting
-- DCHP
-- Dynamic routing 
-- Access Control Lists
-- Network Architecture
+##### CCNA 1/2 (2013 to 2015)
 - IP structure
 - Routing concepts
 - LAN construction
