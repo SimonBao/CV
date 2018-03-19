@@ -21,16 +21,10 @@ I'm currently looking for things or places which or where I can obtain more skil
 ## Skills <a name= "skills"></a>
 
 #### Collabrative
-I am able to start on projects which people whom, I've never work with, comfortably. 
+I can start on projects with people whom, I've never worked with comfortably either in pairs or groups. Through my time at makers, I was able to develop this skill further as I changed partners/groups regularly.  
+#### Flexible leaner
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+ I am a flexible learner, who can learn new programming languages/frameworks in various situations, either solo, pairing or groups. During the course, when I was required to create a product in an unknown language, I was able to tailor my learning process for the product.
 
 ## Education <a name= "education"></a>
 
