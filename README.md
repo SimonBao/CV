@@ -20,13 +20,8 @@ I'm currently looking for things or places which or where I can obtain more skil
 
 ## Skills <a name= "skills"></a>
 
-#### This Skill 
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+#### Collabrative
+I am able to start on projects which people whom, I've never work with, comfortably. 
 
 #### Another Skill
 
