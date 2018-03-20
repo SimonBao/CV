@@ -2,10 +2,7 @@
 
  <p align="center">  <a href='#projects'>Projects</a> |   <a href='#skills'>Skills</a>  |  <a href='#education'>Education</a> | <a href='#experience'>Experience</a> |  <a href='#interests'>Interests</a> |  <a href='https://twitter.com/SimonBao_Sy/'>Twitter</a> </p>
 
-I'm a family business manager and a computer software engineering graduate.
-Whose currently undertaking an intensive software craftsmanship course at Makers Academy.
-Through doing the course, I've obtained several good habits.
-I'm currently looking for things or places which or where I can obtain more skills to become a better developer.
+I am a family business manager and a computer software engineering graduate. Whose is currently undertaking an intensive software craftsmanship course at Makers Academy. Through doing the course, I have obtained several good habits. I am now looking for things or places which or where I can gain more skills to become a better developer.
 
 ## Projects  <a name= "projects"></a>
 | Project | Description | Technology | Testing Framework | Week | Grouping |
