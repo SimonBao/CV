@@ -43,7 +43,6 @@ I am a flexible learner, who can learn new programming languages/frameworks in v
     - SOLID Principles
     - DRY Principles
     - Documentation
-- Ruby 
 
 #### Middlesex University (2013 to 2016)
 
@@ -66,7 +65,10 @@ I am a flexible learner, who can learn new programming languages/frameworks in v
 *Assistant Manager*  
 
 ## Interests <a name= "interests"></a>
--
+- Cryptocurrencies/Blockchain
+- Movies
+- Badminton
+- Puzzles/Games
 <a name= "contact"></a>
 <p align="center">
 <a href="https://twitter.com/SimonBao_Sy">
