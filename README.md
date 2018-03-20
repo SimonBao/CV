@@ -10,11 +10,11 @@ I'm currently looking for things or places which or where I can obtain more skil
 ## Projects  <a name= "projects"></a>
 | Project | Description | Technology | Testing Framework | Week | Grouping |
 | --- | --- | --- | --- | --- | --- |
-| MERN Manual and Dinder | Final Project which focuses on learning the MERN stack and creating a manual for the stack. Through the Manual built a developer finder app | MongoDB, Express, React, Node | Jest | 10/11 | Group(6) |
-| PigeonYelp | Yelp Clone - To build a web application where users are able to find resturants and view/create reviews. | Ruby, Ruby On Rails, HTML, JS, CSS | Rspec, Capybara | 8 | Group(4) |
-| MakersBnB | First group project - To build a AirBnB clone, where users can list spaces for hire and also hire spaces.  | Ruby, Sinatra, Postgresql, HTML | Rspec, Capybara | 5 | Group(4) |
-| Rock-Paper-Scissors | Weekend Challenge - To build a web rock paper scissors through ruby and sinatra | Ruby, Sinatra | Rspec, Capybara | 3 | Solo |
-| Boris Bikes | First project - Build a ruby application, in which users can store and retrieve their bikes. | Ruby | Rspec | 1 | Pairing |
+| [MERN Manual and Dinder](https://github.com/SimonBao/Dindr) | Final Project which focuses on learning the MERN stack and creating a manual for the stack. Through the Manual built a developer finder app | MongoDB, Express, React, Node | Jest | 10/11 | Group(6) |
+| [PigeonYelp](https://github.com/SimonBao/PigeonYelp) | Yelp Clone - To build a web application where users are able to find resturants and view/create reviews. | Ruby, Ruby On Rails, HTML, JS, CSS | Rspec, Capybara | 8 | Group(4) |
+| [StrengthBnB](https://github.com/SimonBao/strength-bnb) | First group project - To build a AirBnB clone, where users can list spaces for hire and also hire spaces.  | Ruby, Sinatra, Postgresql, HTML | Rspec, Capybara | 5 | Group(4) |
+| [Rock-Paper-Scissors](https://github.com/SimonBao/rps-challenge) | Weekend Challenge - To build a web rock paper scissors through ruby and sinatra | Ruby, Sinatra | Rspec, Capybara | 3 | Solo |
+| [Boris Bikes](https://github.com/SimonBao/boris_bikes) | First project - Build a ruby application, in which users can store and retrieve their bikes. | Ruby | Rspec | 1 | Pairing |
 
 
 
