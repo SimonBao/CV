@@ -55,11 +55,8 @@ I am a flexible learner, who can learn new programming languages/frameworks in v
 - CCNA 1/2 Certificate
 
 ##### Projects developed:
-- Vehicular Ad Hoc Networks (Networking, Linux, R&D, IOT)
-    - http://www.vanet.mdx.ac.uk/
-- Asterisk VoIP Raspberry Pi (Networking, Linux)
+- [Vehicular Ad Hoc Networks](http://www.vanet.mdx.ac.uk/) (Networking, Linux, R&D, IOT)
 - Raspberry Pi Cluster (Networking, Linux)
-- ATM Simulation (Bash Script)
 - Online Multiplayer GUI TicTacToe Game (Networking, Java, DNS, MySQL, HTML, CSS, JavaScript)
 
 
