@@ -62,18 +62,15 @@ I am a flexible learner, who can learn new programming languages/frameworks in v
 - ATM Simulation (Bash Script)
 - Online Multiplayer GUI TicTacToe Game (Networking, Java, DNS, MySQL, HTML, CSS, JavaScript)
 
-##### CCNA 1/2 (2013 to 2015)
-- IP structure
-- Routing concepts
-- LAN construction
-- Network configuration
 
 ## Experience <a name= "experience"></a>
 
-**Linla** (2016 to 2017)    
-*Assistant Manager*  
-
-**Jasmine** (2012 to 2016)   
+**Chinese Takeaway - (Family Business)** (2012 to 2018)   
 *Assistant Manager*  
 
 ## Interests <a name= "interests"></a>
+-
+<a name= "contact"></a>
+
+<a href="https://www.linkedin.com/in/simon-bao-09a272130/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
