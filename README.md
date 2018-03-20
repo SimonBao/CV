@@ -72,5 +72,5 @@ I am a flexible learner, who can learn new programming languages/frameworks in v
 -
 <a name= "contact"></a>
 
-<a href="https://www.linkedin.com/in/simon-bao-09a272130/">
+<a href="https://www.linkedin.com/in/simon-bao">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
