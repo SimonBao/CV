@@ -71,6 +71,10 @@ I am a flexible learner, who can learn new programming languages/frameworks in v
 ## Interests <a name= "interests"></a>
 -
 <a name= "contact"></a>
+<p align="center">
+<a href="https://twitter.com/SimonBao_Sy">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.linkedin.com/in/simon-bao">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+
